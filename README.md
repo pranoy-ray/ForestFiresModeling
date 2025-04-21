@@ -14,11 +14,11 @@ All the files are located in the 'Project/' directory. The overall structure is 
 * 'Project/PDE/Final Version/forest_fire_PDE_final_version_for_results_analysis.ipynb': Shows the model and results in a notebook. (It generates Figure 9, 11, and Table 1 in the Final Report)
 # Running PDE
 
-The main script is 'Project/PDE/Final Version/forest_fire_PDE_final_version.ipynb', and you can run it in Jupyter Notebook.
+The main script is 'PDE/Final Version/forest_fire_PDE_final_version.ipynb', and you can run it in Jupyter Notebook.
 
 # Running ABM
 
-To be completed
+The main script is 'ABM/ABM.ipynb', and you can run it in Jupyter Notebook.
 
 # Contributors
 
